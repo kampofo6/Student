@@ -1,4 +1,5 @@
 
+//my name is Kojo
 package student;
 import java.util.Scanner; 
 
